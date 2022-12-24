@@ -1,0 +1,4 @@
+hi students 
+welcome to grass & devops class
+
+this is 2nd file of direct-1 repository 
